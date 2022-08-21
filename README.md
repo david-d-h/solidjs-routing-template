@@ -3,7 +3,7 @@
 1. First clone this repository into your local development environment using <br>
 `git clone https://github.com/Oui002/solidjs-routing-template ./my-app`
 
-2. Cd into the directory that was just cloned `cd solidjs-routing-template`
+2. Cd into the directory that was just cloned `cd my-app`
 
 3. Run `npm i` to install all the necessary dependencies 
 
