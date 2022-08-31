@@ -1,7 +1,7 @@
 # How to use
 
 1. First clone this repository into your local development environment using <br>
-`git clone https://github.com/Oui002/solidjs-routing-template ./my-app`
+`git clone https://github.com/pixelafk/solidjs-routing-template ./my-app`
 
 2. Cd into the directory that was just cloned `cd my-app`
 
